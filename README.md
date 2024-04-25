@@ -114,7 +114,6 @@ O script oferece as seguintes funcionalidades:
 
      'python3 script_permission.py'
 
-#
 
 <h2>Utilização do Projeto</h2>
 
@@ -123,5 +122,7 @@ Sinta-se à vontade para utilizar e contribuir para este projeto. Recomendo que 
 <h2>Autor</h2>
 
 <h5>LUIS FERNANDO OLEGARIO DOS SANTOS</h5>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-1b00682b7/)
 
 
