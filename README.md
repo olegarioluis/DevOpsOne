@@ -101,13 +101,27 @@ O script oferece as seguintes funcionalidades:
 * Para obter as permissões atuais do arquivo, chame a função 'obter_permissao_arquivo' passando o caminho do arquivo como argumento.
 
 3- Alterar permissões do arquivo:
-Para alterar as permissões do arquivo, primeiro defina a nova permissão em formato octal e então chame a função 'alterar_permissao_arquivo'.
+* Para alterar as permissões do arquivo, primeiro defina a nova permissão em formato octal, na imagem abaixo tem exemplos e então chame a função 'alterar_permissao_arquivo'.
 
-    nova_permissao = 0o777  # Permissão total
-    alterar_permissao_arquivo(arquivo, nova_permissao)
+<p align="center">
+  <img src=https://github.com/olegarioluis/Devops_project_1/assets/160364431/5762242c-850b-4aa7-9830-5fd5694c1d54
+</p>
+      
+            nova_permissao = 0o777  # Permissão total
+            alterar_permissao_arquivo(arquivo, nova_permissao)
     
 4- Abra um terminal ou linha de comando e navegue até o diretório onde o script está salvo. Execute o script usando:
 
      'python3 script_permission.py'
 
-    
+#
+
+<h2>Utilização do Projeto</h2>
+
+Sinta-se à vontade para utilizar e contribuir para este projeto. Recomendo que os scripts sejam editados em um editor de código como o Vs code, Pychar ou Jupyter, e executado no terminal.
+
+<h2>Autor</h2>
+
+<h5>LUIS FERNANDO OLEGARIO DOS SANTOS</h5>
+
+
