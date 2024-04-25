@@ -1,6 +1,9 @@
 # 1º Projeto Prático - DevOps
 
 ## Automação de Rotinas em Ambiente Linux com Python.
+
+### Projeto Proposto na trilha DevOps do programa Desenvolve 2024 do Grupo Boticário, cujo objetivo era a criação de scripts Python que automatizam tarefas comuns em um ambiente Linux.
+#
 <h3>1. backup_com_interface.</h3>
 <h5>Descrição</h5>
 O script permite que o usuário faça backup de um diretório de origem para um diretório de destino especificado. O backup é criado como um arquivo '.tar.gz' (gzip compressed tar file) com a data atual como parte do nome do arquivo, facilitando a organização e identificação dos backups.
@@ -24,7 +27,7 @@ O script permite que o usuário faça backup de um diretório de origem para um 
 
 * Para executar o script você precisará da biblioteca 'PySimpleGUI'.
 
-* Você pode instalar as bibliotecas necessárias usando pip: 'pip3 install PySimpleGUI'
+* Você pode instalar as bibliotecas necessárias usando pip: 'pip3 install PySimpleGUI' Diretamente no Terminal. 
 
 <h3>2. script_backup</h3>
 <h5>Descrição</h5>
