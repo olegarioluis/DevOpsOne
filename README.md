@@ -2,7 +2,8 @@
 
 ## Automação de Rotinas em Ambiente Linux com Python.
 
-### Projeto Proposto na trilha DevOps do programa Desenvolve 2024 do Grupo Boticário, cujo objetivo era a criação de scripts Python que automatizam tarefas comuns em um ambiente Linux.
+Projeto Proposto na trilha DevOps do programa Desenvolve 2024 do Grupo Boticário, cujo objetivo era a criação de scripts Python que automatizam tarefas comuns em um ambiente Linux.
+
 #
 <h3>1. backup_com_interface.</h3>
 <h5>Descrição</h5>
@@ -107,8 +108,8 @@ O script oferece as seguintes funcionalidades:
   <img src=https://github.com/olegarioluis/Devops_project_1/assets/160364431/5762242c-850b-4aa7-9830-5fd5694c1d54
 </p>
       
-            nova_permissao = 0o777  # Permissão total
-            alterar_permissao_arquivo(arquivo, nova_permissao)
+      nova_permissao = 0o777  # Permissão total
+      alterar_permissao_arquivo(arquivo, nova_permissao)
     
 4- Abra um terminal ou linha de comando e navegue até o diretório onde o script está salvo. Execute o script usando:
 
