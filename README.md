@@ -118,7 +118,7 @@ O script oferece as seguintes funcionalidades:
 
 <h2>Utilização do Projeto</h2>
 
-Sinta-se à vontade para utilizar e contribuir para este projeto. Recomendo que os scripts sejam editados em um editor de código como o Vs code, Pychar ou Jupyter, e executado no terminal.
+Sinta-se à vontade para utilizar e contribuir para este projeto. Recomendo que os scripts sejam editados em um editor de código como o Vs code, PyCharm ou Jupyter, e executado no terminal.
 
 <h2>Autor</h2>
 
